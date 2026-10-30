@@ -1,0 +1,5 @@
+{
+  "model": "ilass/qwen-3.8-27b",
+  "small_model": "ilass/qwen-3.8-27b",
+  "enabled_providers": ["ilass"]
+}

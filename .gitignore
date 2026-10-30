@@ -39,7 +39,6 @@ build/
 
 ## Claude
 .claude
-AGENTS.md
 
 # Local runtime secrets
 .env
